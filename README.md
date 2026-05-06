@@ -1,0 +1,1 @@
+I used a mobile sales dataset containing brand, city, payment method, price, and ratings. First, I cleaned missing and duplicate values. Then I performed EDA to analyze sales trends and correlations. After encoding categorical variables and scaling numerical features, I trained a Random Forest Regressor to predict units sold. The model was evaluated using MAE, MSE, and R² score.
